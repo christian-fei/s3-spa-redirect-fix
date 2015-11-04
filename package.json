@@ -1,6 +1,6 @@
 {
   "name": "s3-spa-redirect-fix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/s3-spa-redirect-fix.min.js",
   "scripts": {
